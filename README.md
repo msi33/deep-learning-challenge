@@ -31,6 +31,9 @@ Model rerun and Optimization
 - The output was saved as .keras, because HDF5 is now a legacy format.
 
 Analysis and findings
-A report that includes purpose, results and discussion, model performance, and summary was generated. Relying on 34000 data points for past funding to entities, a neural network model was developed and ran which gave an accuracy of approximately 73.13% across multiple optimization attempts. Four iterations of hyperparameter tuning adjusting layers and activation was done to improve accuracy, however, the accuracy did not go beyond 73% to reach the expected target 75%. This could mean that the current approach may have maximum improvable from this data. Exploration of other machine learning to improve accuracy could be tried in future. 
+- A report that includes purpose, results and discussion, model performance, and summary was generated.
+- Relying on 34000 data points for past funding to entities, a neural network model was developed and ran which gave an accuracy of approximately 73.13% across multiple optimization attempts.
+- Four iterations of hyperparameter tuning adjusting layers and activation was done to improve accuracy, however, the accuracy did not go beyond 73% to reach the expected target 75%. This could mean that the current approach may have maximum improvable from this data.
+- Exploration of other machine learning to improve accuracy could be tried in future. 
 
 
